@@ -60,6 +60,6 @@ python script.py
 Run this to export as env variables:
 ```bash
 export MLFLOW_TRACKING_URI=https://dagshub.com/RawatRahul14/End-to-End-Machine-Learning-Project-with-MLFlow.mlflow
-export MLFLOW_TRACKING_USERNAME=RawatRahul14
-export MLFLOW_TRACKING_PASSWORD=eee590c2813bb53bc8cfd269451fa6f0216df2f0
+export MLFLOW_TRACKING_USERNAME=###############################
+export MLFLOW_TRACKING_PASSWORD=####################################
 ```
